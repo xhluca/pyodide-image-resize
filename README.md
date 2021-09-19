@@ -6,8 +6,8 @@ This repository serves as a template for using pyodide in React. It was created 
 
 To get started, simply run the lines below in your terminal:
 ```
-git clone https://github.com/xhlulu/react-pyodide-template.git
-cd react-pyodide-template
+git clone https://github.com/xhlulu/react-image-processing.git
+cd react-image-processing
 npm i
 npm start
 ```
