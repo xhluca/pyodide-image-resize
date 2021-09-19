@@ -1,0 +1,22 @@
+<html>
+
+<body>
+    <div>My Image will appear below:</div>
+    <div>
+        <img id="output-image"></img>
+        <input type="file" accept="image/*" onchange="displayImage(event)">
+    </div>
+    <script type="text/javascript">
+        function displayImage(event) {
+            const reader = new FileReader();
+            reader.onload = function () {
+                const output = document.getElementById('output-image');
+                output.src = reader.result;
+            };
+
+            reader.readAsDataURL(event.target.files[0]);
+        }
+    </script>
+</body>
+
+</html>

@@ -1,5 +1,6 @@
 {
   "name": "react-image-processing",
+  "homepage": "react-image-processing",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
