@@ -3,17 +3,16 @@ import script from './python/main.py';
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+const runScript = async (code) => {
+  const pyodide = await window.loadPyodide({
+    indexURL : "https://cdn.jsdelivr.net/pyodide/v0.18.1/full/"
+  });
+
+  return await pyodide.runPythonAsync(code);
+}
+
+const App = () => {
   const [output, setOutput] = useState("(loading...)");
-
-  
-  const runScript = async (code) => {
-    const pyodide = await window.loadPyodide({
-      indexURL : "https://cdn.jsdelivr.net/pyodide/v0.18.1/full/"
-    });
-
-    return await pyodide.runPythonAsync(code);
-  }
 
   useEffect(() => {
     const run = async () => {
