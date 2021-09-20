@@ -1,6 +1,6 @@
 {
-  "name": "react-image-processing",
-  "homepage": "react-image-processing",
+  "name": "pyodide-image-editor",
+  "homepage": "pyodide-image-editor",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
