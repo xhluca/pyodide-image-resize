@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/pyodide-image-editor/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/pyodide-image-editor/static/js/main.8b48aa2a.chunk.js",
-    "main.js.map": "/pyodide-image-editor/static/js/main.8b48aa2a.chunk.js.map",
+    "main.js": "/pyodide-image-editor/static/js/main.ef1e6831.chunk.js",
+    "main.js.map": "/pyodide-image-editor/static/js/main.ef1e6831.chunk.js.map",
     "runtime-main.js": "/pyodide-image-editor/static/js/runtime-main.ca72779d.js",
     "runtime-main.js.map": "/pyodide-image-editor/static/js/runtime-main.ca72779d.js.map",
-    "static/js/2.fd93059f.chunk.js": "/pyodide-image-editor/static/js/2.fd93059f.chunk.js",
-    "static/js/2.fd93059f.chunk.js.map": "/pyodide-image-editor/static/js/2.fd93059f.chunk.js.map",
+    "static/js/2.8a15126d.chunk.js": "/pyodide-image-editor/static/js/2.8a15126d.chunk.js",
+    "static/js/2.8a15126d.chunk.js.map": "/pyodide-image-editor/static/js/2.8a15126d.chunk.js.map",
     "static/js/3.3b9d7a53.chunk.js": "/pyodide-image-editor/static/js/3.3b9d7a53.chunk.js",
     "static/js/3.3b9d7a53.chunk.js.map": "/pyodide-image-editor/static/js/3.3b9d7a53.chunk.js.map",
     "index.html": "/pyodide-image-editor/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/pyodide-image-editor/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.fd93059f.chunk.js.LICENSE.txt": "/pyodide-image-editor/static/js/2.fd93059f.chunk.js.LICENSE.txt",
+    "static/js/2.8a15126d.chunk.js.LICENSE.txt": "/pyodide-image-editor/static/js/2.8a15126d.chunk.js.LICENSE.txt",
     "static/media/main.d4bc4b87.py": "/pyodide-image-editor/static/media/main.d4bc4b87.py"
   },
   "entrypoints": [
     "static/js/runtime-main.ca72779d.js",
-    "static/js/2.fd93059f.chunk.js",
+    "static/js/2.8a15126d.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.8b48aa2a.chunk.js"
+    "static/js/main.ef1e6831.chunk.js"
   ]
 }
