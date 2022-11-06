@@ -1,6 +1,6 @@
-# Image Editor with Pyodide and React
+# Image Resizer with Pyodide and React
 
-This simple demo apps shows you how to use the Pillow library inside `pyodide` for image processing. The app itself was built in React with Material UI v5, and all the interactions between the React app and the `pyodide` functions are done via hooks and event handlers.
+This simple demo apps shows you how to use the Pillow library inside `pyodide` for image resizing. The app itself was built in React with Material UI v5, and all the interactions between the React app and the `pyodide` functions are done via hooks and event handlers.
 
 ## Quickstart
 
