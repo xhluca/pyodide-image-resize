@@ -1,6 +1,6 @@
 {
-  "name": "pyodide-image-editor",
-  "homepage": "pyodide-image-editor",
+  "name": "pyodide-image-resize",
+  "homepage": "pyodide-image-resize",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
